@@ -3,7 +3,7 @@ layout: default
 title: QQ雷电RE项目
 ---
 
-# QQ雷电复活计划
+# QQ雷电RE项目-复活计划
 
 > 让经典重新起飞！
 
