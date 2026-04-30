@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 技术概览 - QQ雷电 Revive
+title: 技术概览 - QQ雷电RE项目
 ---
 
 # 技术概览
