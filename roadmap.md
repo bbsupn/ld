@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 开发路线图 - QQ雷电 Revive
+title: 开发路线图 - QQ雷电RE项目
 ---
 
 # 开发路线图
