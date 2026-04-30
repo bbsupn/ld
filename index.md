@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QQ雷电 Revive 项目
+title: QQ雷电RE项目
 ---
 
 # QQ雷电复活计划
